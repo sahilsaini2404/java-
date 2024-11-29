@@ -1,0 +1,4 @@
+class Example 24{
+public static void main(String[] args){
+char c = 'd' ;
+int d =(int)c ;
